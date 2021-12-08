@@ -1,4 +1,4 @@
-﻿namespace zad5_175962
+﻿namespace Psychomotor_test
 {
     partial class Test3
     {

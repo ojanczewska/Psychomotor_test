@@ -14,7 +14,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Media;
 
-namespace zad5_175962
+namespace Psychomotor_test
 {
     public partial class Test3 : Form
     {

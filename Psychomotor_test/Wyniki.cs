@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
 
-namespace zad5_175962
+namespace Psychomotor_test
 {
     public partial class Wyniki : Form
     {

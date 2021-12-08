@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{F224BA52-A89E-494A-8C18-8F7233B4EAFB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>zad5_175962</RootNamespace>
-    <AssemblyName>zad5_175962</AssemblyName>
+    <RootNamespace>Psychomotor_test</RootNamespace>
+    <AssemblyName>Psychomotor_test</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -108,6 +108,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Wyniki.resx">
       <DependentUpon>Wyniki.cs</DependentUpon>

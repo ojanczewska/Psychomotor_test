@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1433
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad5_175962", "zad5_175962\zad5_175962.csproj", "{F224BA52-A89E-494A-8C18-8F7233B4EAFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psychomotor_test", "Psychomotor_test\Psychomotor_test.csproj", "{F224BA52-A89E-494A-8C18-8F7233B4EAFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

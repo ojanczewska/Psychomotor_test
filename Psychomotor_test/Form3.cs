@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Threading;
 using System.Windows.Forms;
 
-namespace zad5_175962
+namespace Psychomotor_test
 {
     public partial class Test2 : Form
     {
